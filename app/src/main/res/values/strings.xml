@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">ISS Tracker</string>
+    <string name="btn_next">NEXT</string>
+    <string name="btn_back">BACK</string>
+    <string name="btn_start">START</string>
+    <string name="content_description">ICON</string>
+    <string name="iss_description">
+        The International Space Station (ISS) is a modular space station (habitable artificial satellite) in low Earth orbit.\n
+        It is a multinational collaborative project between five participating space agencies: NASA (United States), Roscosmos (Russia), JAXA (Japan), ESA (Europe), and CSA (Canada).
+        The ownership and use of the space station is established by intergovernmental treaties and agreements.\n
+        The ISS programme evolved from the Space Station Freedom, an American proposal in the 1980s to construct a permanently crewed Earth-orbiting station.\n
+        The ISS serves as a microgravity and space environment research laboratory in which scientific experiments are conducted in astrobiology, astronomy, meteorology, physics, and other fields.
+        The station is suited for testing the spacecraft systems and equipment required for possible future long-duration missions to the Moon and Mars.
+        It is the largest artificial object in space and the largest satellite in low Earth orbit, regularly visible to the naked eye from Earth\'s surface.
+        It maintains an orbit with an average altitude of 400 kilometres (250 mi) by means of reboost manoeuvres using the engines of the Zvezda Service Module or visiting spacecraft.
+        The ISS circles the Earth in roughly 93 minutes, completing 15.5 orbits per day.
+        The station is divided into two sections: the Russian Orbital Segment (ROS), operated by Russia; and the United States Orbital Segment (USOS), which is shared by many nations.
+        Roscosmos has endorsed the continued operation of ISS through 2024, but had previously proposed using elements of the Russian segment to construct a new Russian space station called OPSEK.
+        As of December 2018, the station is expected to operate until 2030.
+        The first ISS component was launched in 1998, with the first long-term residents arriving on 2 November 2000. The station has since been continuously occupied for 19 years and 309 days.
+        This is the longest continuous human presence in low Earth orbit, having surpassed the previous record of 9 years and 357 days held by the Mir space station.
+        The latest major pressurised module was fitted in 2011, with an experimental inflatable space habitat added in 2016.
+        Development and assembly of the station continues, with several major new Russian elements scheduled for launch starting in 2020.
+        The ISS consists of pressurised habitation modules, structural trusses, photovoltaic solar arrays, thermal radiators, docking ports, experiment bays and robotic arms.
+        Major ISS modules have been launched by Russian Proton and Soyuz rockets and US Space Shuttles.
+        The ISS is the ninth space station to be inhabited by crews, following the Soviet and later Russian Salyut, Almaz, and Mir stations and the U.S. Skylab.
+        The station is serviced by a variety of visiting spacecraft: the Russian Soyuz and Progress, the U.S.Dragon and Cygnus, the Japanese H-II Transfer Vehicle, and, formerly, the European Automated Transfer Vehicle.
+        The Dragon spacecraft allows the return of pressurised cargo to Earth (downmass), which is used, for example, to repatriate scientific experiments for further analysis.
+        The Soyuz return capsule has minimal downmass capability next to the astronauts.
+        \nAs of September 2019, 239 astronauts, cosmonauts, and space tourists from 19 different nations have visited the space station, many of them multiple times.
+        This includes 151 Americans, 47 Russians, nine Japanese, eight Canadians, five Italians, four French, three Germans, and one each from Belgium, Brazil, Denmark, Kazakhstan, Malaysia, the Netherlands, South Africa, South Korea, Spain, Sweden, the United Arab Emirates, and the United Kingdom.
+    </string>
+    <string name="pass_info">The space station looks like an airplane or a very bright star moving across the sky, except it doesn’t have flashing lights or change direction.
+        It will also be moving considerably faster than a typical airplane (airplanes generally fly at about 600 miles per hour;the space station flies at 17,500 miles per hour).
+        Below is a time-lapse photo of the space station moving across the sky.\n
+        "ISS PASSING TIME" is when the ISS will be above your head(sighting opportunity will based on time and climate).\n
+        The ISS will be clearly visible within a few hours before or after sunrise or sunset.
+        This is the optimum viewing period as the sun reflects off the space station and contrasts against the darker sky.\n
+        "ISS DURATION" is the maximum time period the space station is visible before crossing back below the horizon.
+    </string>
+
+    <string name="notify_note">
+        Click notify to set remainder for this ISS passing time.
+    </string>
+
+    <string name="notifyCancel_note">
+        Reminder is SET for this timing, We will notify you 5 minutes before when ISS is near you.
+    </string>
+
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

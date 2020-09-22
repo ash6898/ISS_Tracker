@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/darkTheme">
+
+    <TextView
+        android:layout_margin="16dp"
+        android:layout_alignParentTop="true"
+        android:textColor="#ececec"
+        android:id="@+id/issPass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ISS Pass Time Information"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"/>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/passInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/issPass"
+        android:layout_margin="16dp"
+        app:cardBackgroundColor="#f2a365">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/pass_info_heading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Spot The Station\n(ISS)"
+                android:textAlignment="center"
+                android:textColor="#30475e"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pass_info_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/pass_info"
+                android:textColor="#30475e"
+                android:textSize="16sp"
+                android:visibility="gone" />
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/passInfo"
+        android:id="@+id/notify_recycler_view"/>
+
+</RelativeLayout>
+</ScrollView>
