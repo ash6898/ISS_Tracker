@@ -9,8 +9,8 @@
 <li>In Third tab, it displays the approximate time and number of time the ISS will cross your location. you can turn on to notify you when ISS is nearby you</li>
 </ul>
 
-<img src="/images/ISS SS 1" alt="app_screen_shot">
-<img src="/images/ISS SS 2" alt="app_screen_shot">
-<img src="/images/ISS SS 3" alt="app_screen_shot">
-<img src="/images/ISS SS 4" alt="app_screen_shot">
-<img src="/images/ISS SS 5" alt="app_screen_shot">
+<img src="/images/ISS SS 1.jpeg" alt="app_screen_shot">
+<img src="/images/ISS SS 2.jpeg" alt="app_screen_shot">
+<img src="/images/ISS SS 3.jpeg" alt="app_screen_shot">
+<img src="/images/ISS SS 4.jpeg" alt="app_screen_shot">
+<img src="/images/ISS SS 5.jpeg" alt="app_screen_shot">
